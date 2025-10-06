@@ -21,7 +21,6 @@ packaging==25.0
 python-engineio==4.12.3
 python-socketio==5.14.1
 simple-websocket==1.1.0
-six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-103/six-1.15.0-py2.py3-none-any.whl
 SQLAlchemy==2.0.43
 typing_extensions==4.13.2
 Werkzeug==3.0.6
